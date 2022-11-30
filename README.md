@@ -25,7 +25,7 @@ This file is generated automatically by executing main.py
 
 A gif file of a sequence that contains a set of static virtual objects with real
 backgrounds, as if the virtual objects were placed in the original scene.
-
+![Output gif](results/VR_res.gif)
 
 ## Running
 To run this program:
